@@ -1,6 +1,6 @@
 # ipyjs
 ## Reproducible data driven documents with IPython and JavaScript
-IPython can inject HTML content and Javascript code directly on a notebook. This, plus the the free production and interchange of JSON data between components and languates inside the same notebook, allows the use of third party JavaScript libraries &mdash;or any other scripting language&mdash; to enhance the **Reproducible** capabilities of your notebook.
+IPython can inject HTML content and Javascript code directly onto a notebook. This, plus the easy production and interchange of JSON data between all components and languates inside the same notebook, allows the use of third party JavaScript libraries &mdash;or any other scripting language&mdash; to enhance the **Reproducible** capabilities of your notebook.
 
 Here are some simple examples to help you mix and match some important JS libraries with your IPython notebooks:
 
