@@ -19,4 +19,4 @@ Here are some simple examples to help you mix and match these Javascript librari
 
 * **`three_in_ipython`** three.js inside IPython example.
 
-**Note**: You may want to download each notebook, inspect the code, and run it on your computer to actually see the generated charts or dynamic tables. I haven't put an autorun on the JavaScript code yet. If you have some suggestions please clone and make a pull request. I had just the reqular autostart but it worked only for the first graph using it. I need a way to execute in a synchronous way several charts inside the notebooks.
+**Note**: You may want to download each notebook, inspect the code, and run it on your computer to actually see the generated charts or dynamic tables. I haven't put an autorun on the JavaScript code yet. If you have some suggestions please clone the project and make a pull request. I just had the reqular javascript autostart, when the dom is ready, but it worked only for the first graph using it. So I took it off the examples. I need a way to execute in a synchronous way several charts inside the notebooks.
