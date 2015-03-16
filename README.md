@@ -10,4 +10,4 @@ Here are some simple examples to help you mix and match some important JS librar
 
 * **`d3_in_ipython`** D3.js inside IPython example.
 
-**Note**: You may want to download the notebooks and run them on your computer. I haven't put an autorun on the JavaScript code yet. If you have some suggestions please clone and make a pull request. I had just the reqular autostart but it worked only for the first graph using it. I may need to code with some synchrony code to run all charts in an example one after the other.
+**Note**: You may want to download the notebooks and run them on your computer. I haven't put an autorun on the JavaScript code yet. If you have some suggestions please clone and make a pull request. I had just the reqular autostart but it worked only for the first graph using it. I need a way to execute in a synchronous way several charts inside the notebooks.
